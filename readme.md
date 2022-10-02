@@ -8,7 +8,7 @@ project-7
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-7** [Live Link]
+# **Project-7** [Live Link](https://ineuronjsproject07.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about how to use eventlistener
